@@ -6,10 +6,14 @@
 - 🌱 Currently learning Full-Stack Development / AI & ML
 - 🤝 Open to collaboration — open source, hackathons, and new projects!
 
-### 🔧 Tools & Tech
-**Languages:** C · C++ · Python · Java · JavaScript  
-**Web:** HTML · CSS · React · Node.js · Express  
-**DB / Tools:** MySQL · MongoDB · Git · VS Code
+### 🔧 Tech Stack
+
+**Languages:** Python · Java · C++ · JavaScript  
+**Web Development:** React · Node.js · Express · TailwindCSS  
+**Databases:** MySQL · MongoDB  
+**Cloud / DevOps:** AWS · Docker · GitHub Actions  
+**Tools:** Git · VS Code · Postman · Linux
+
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bharat756036&show_icons=true&theme=tokyonight)
