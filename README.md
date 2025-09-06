@@ -12,8 +12,8 @@
 **DB / Tools:** MySQL · MongoDB · Git · VS Code
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bharat756036&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bharat756036&layout=compact&theme=tokyonight)
 
 ### 🌍 Connect
 - LinkedIn: https://linkedin.com/in/your-linkedin
